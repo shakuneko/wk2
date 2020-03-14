@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Lemon",
+        "singer": "米津玄師",
+        "like": "♡",
+        "url": "https://www.books.com.tw/products/0020205501",
+        "image": "https://images.chinatimes.com/newsphoto/2020-01-22/900/BBC300_P_02_02.jpg",
+        "image2": "http://s85.youtaker.com/other/2018/2-12/oth12825166853ad12aa76cd4343b73e8d2c9ec3e96f850.jpg"
+    },
+    {
+        "name": "Flamingo",
+        "singer": "米津玄師",
+        "like": "♥",
+        "url": "https://www.ccr.com.tw/goods/365432",
+        "image": "https://images.chinatimes.com/newsphoto/2020-01-22/900/BBC300_P_02_02.jpg",
+        "image2": "https://imgc.eximg.jp/i=https%253A%252F%252Fs.eximg.jp%252Fexnews%252Ffeed%252FQetic%252FQetic_320344_077e_3.jpg,quality=70,type=jpg"
+    },
+    {
+        "name": "馬と鹿",
+        "singer": "米津玄師",
+        "like": "♥",
+        "url": "https://www.ccr.com.tw/goods/384083",
+        "image": "https://images.chinatimes.com/newsphoto/2020-01-22/900/BBC300_P_02_02.jpg",
+        "image2": "https://1.bp.blogspot.com/-9ISfLTZXgaY/XZ6gQx6rFrI/AAAAAAAAHOo/z7VxYjkw2io2sVkLwswAv3AfEMnsrgf5gCLcBGAsYHQ/s1600/o1080108014501563744.jpg"
+    },
+    {
+        "name": "TEENAGE RIOT",
+        "singer": "米津玄師",
+        "like": "♡",
+        "url": "https://www.ccr.com.tw/goods/365433",
+        "image": "https://images.chinatimes.com/newsphoto/2020-01-22/900/BBC300_P_02_02.jpg",
+        "image2": "https://truth.bahamut.com.tw/s01/201811/fd2673f920ede4bdc1c7407524807b57.JPG"
+    },
+    {
+        "name": "orion",
+        "singer": "米津玄師",
+        "like": "♡",
+        "url": "https://www.kkbox.com/tw/tc/album/TtoZUjqayRuN10F1LD5l009H-index.html",
+        "image": "https://images.chinatimes.com/newsphoto/2020-01-22/900/BBC300_P_02_02.jpg",
+        "image2": "https://getnews.jp/thumb/amp/1572056.jpg"
+    },
+    {
+        "name": "BOOTLEG",
+        "singer": "米津玄師",
+        "like": "♡",
+        "url": "https://www.books.com.tw/products/0020201486",
+        "image": "https://images.chinatimes.com/newsphoto/2020-01-22/900/BBC300_P_02_02.jpg",
+        "image2": "http://s105.youtaker.com/other/2017/12-26/oth6169371546f1c1350063e45a6a7b09373c8c3c59f1050.jpg"
+    },
+    {
+        "name": "LOSER",
+        "singer": "米津玄師",
+        "like": "♡",
+        "url": "https://www.kkbox.com/tw/tc/album/h9jT.mMUHWNav0F18KTb009H-index.html",
+        "image": "https://images.chinatimes.com/newsphoto/2020-01-22/900/BBC300_P_02_02.jpg",
+        "image2": "https://66.media.tumblr.com/fa2c35e524b6f22c33772ec0615a54dc/tumblr_oegzd46E4q1qi5qt1o1_1280.jpg"
+    }
+]
